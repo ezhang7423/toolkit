@@ -1,9 +1,5 @@
 # matplotlib toolkit
 
-TODO
-
-- support subplots/subfigues
-
 ## Cheatsheets
 
 ![https://matplotlib.org/cheatsheets/_images/cheatsheets-1.png](./cheatsheets/cheatsheets-1.png)
