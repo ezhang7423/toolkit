@@ -3,7 +3,6 @@
 TODO
 
 - support subplots/subfigues
-- add barchart
 
 ## Cheatsheets
 
