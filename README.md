@@ -10,7 +10,7 @@
 
 ![https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7](./miscell/bigo-cheatsheet.webp)
 
-![https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZo19High.png](./miscell/NeuralNetworkZo19High.png)
+<!-- ![https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZo19High.png](./miscell/NeuralNetworkZo19High.png) -->
 
 ![https://blog.dataiku.com/machine-learning-explained-ai-algorithms-are-your-friend](./miscell/prediction-alg-comparison.png)
 
