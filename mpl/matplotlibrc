@@ -561,8 +561,8 @@
 #figure.titleweight: normal    # weight of the figure title
 #figure.labelsize:   large     # size of the figure label (``Figure.sup[x|y]label()``)
 #figure.labelweight: normal    # weight of the figure label
-figure.figsize:     4.85, 3  # figure size in inches, use golden ratio
-figure.dpi:         200       # figure dots per inch
+#figure.figsize:     6.4, 4.8  # figure size in inches
+#figure.dpi:         100       # figure dots per inch
 #figure.facecolor:   white     # figure face color
 #figure.edgecolor:   white     # figure edge color
 #figure.frameon:     True      # enable figure frame
