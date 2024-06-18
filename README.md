@@ -4,6 +4,7 @@
 - pandas [in progress]
 - numpy [in progress]
 - scikit-learn
+- math (linalg, prob and stats, calculus)
 
 ---
 
