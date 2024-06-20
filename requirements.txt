@@ -5,3 +5,4 @@ seaborn==0.13.2
 # pandas==1.5.0
 # numpy==1.23.2
 eztils==0.4.98
+ipympl==0.9.4 # interactive matplotlib in jupyter
