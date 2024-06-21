@@ -6,3 +6,4 @@ seaborn==0.13.2
 # numpy==1.23.2
 eztils==0.4.98
 ipympl==0.9.4 # interactive matplotlib in jupyter
+einops==0.8.0
