@@ -106,7 +106,7 @@ class VecValue:
         build_topo(self)
 
         self.grad = np.ones_like(self.data)
-        for v in reversed(topo):
+        for v in topo:
             v._backward()
 
     def __repr__(self):
@@ -140,7 +140,7 @@ class VecMLP:
 
 
 def mse_loss(pred, target):
-    return ((pred - target) * (pred - target)).sum() / VecValue(float(len(target)))
+    return ((pred - target) * (pred - target)).sum() / float(len(target))
 
 
 # Example usage
@@ -178,3 +178,10 @@ def vec_main(X, Y):
 X = np.array([[2.0, 3.0], [-1.0, -2.0], [5.0, -1.0], [-3.0, 4.0]])
 Y = np.array([[1.0], [-1.0], [1.0], [-1.0]])
 vec_main(X, Y)
+
+# create a simpler testcase to debug
+#* TODO finish later
+X = np.array([[2.0, 3.0]])
+Y = np.array([[1.0]])
+
+
